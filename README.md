@@ -1,2 +1,2 @@
-# Home Work 13 (Files. Django)
+# Home Work 13 (Files. Django.)
 
